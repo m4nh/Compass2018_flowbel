@@ -1,0 +1,15 @@
+{
+ "0": "artifact_black", 
+ "1": "artifact_metal", 
+ "2": "artifact_orange", 
+ "3": "artifact_white", 
+ "4": "battery_black", 
+ "5": "battery_green", 
+ "6": "box_brown", 
+ "7": "box_yellow", 
+ "8": "clip", 
+ "9": "glue", 
+ "10": "pendrive", 
+ "11": "screwdriver", 
+ "-1": "No-Class"
+}
