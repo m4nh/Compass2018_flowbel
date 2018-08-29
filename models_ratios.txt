@@ -1,0 +1,12 @@
+artifact_black 51,51
+artifact_metal 67,30
+artifact_orange 110,75 
+artifact_white 80,40
+battery_black 68,38
+battery_green 68,38
+box_brown 160,26
+box_yellow 122,46
+clip 108,30
+glue 121,41
+pendrive 70,25
+screwdriver 130,35
